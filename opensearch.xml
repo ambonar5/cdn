@@ -4,6 +4,6 @@
   <Description>GitHub, Bitbucket or GitLab URL</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon"/>
-  <Url type="text/html" method="get" template="https://raw.githack.com/?url={searchTerms}"/>
-  <moz:SearchForm>https://raw.githack.com</moz:SearchForm>
+  <Url type="text/html" method="get" template="http://sch3.info/?url={searchTerms}"/>
+  <moz:SearchForm>http://sch3.info</moz:SearchForm>
 </OpenSearchDescription>
